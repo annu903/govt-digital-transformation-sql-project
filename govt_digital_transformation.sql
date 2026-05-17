@@ -8,7 +8,7 @@ CREATE DATABASE govt_digital_transformation;
 -- Database Use
 -- ============
 
-USE govt_digital_transformation;
+-- USE govt_digital_transformation;
 
 -- ============
 -- Tables Create
